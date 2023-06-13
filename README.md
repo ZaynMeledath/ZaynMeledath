@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZaynMeledath
 - 👀 I’m interested in Futter App Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter
+- 💞️ I’m looking to collaborate on Flutter Projects
 - 📫 How to reach me ...
 
 <!---
