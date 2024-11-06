@@ -6,12 +6,14 @@ Welcome to my GitHub profile! I’m a passionate software developer with a stron
 🌱 Currently Learning: Cybersecurity and expanding my knowledge in mobile app security
 💼 Professional Experience: Over 10 years of programming experience and extensive work in Flutter
 🚀 Interests: Mobile development, game development, and emerging tech trends
+
 🔹 Key Skills
 Mobile Development: Expertise in Flutter, with experience in Provider, Bloc, and GetX for state management
 Programming Languages: Dart, JavaScript, Python, and more
 Backend Integration: Skilled in working with REST APIs and Firebase
 UI/UX Design: Strong focus on creating engaging and interactive user experiences
 Mini-Game Development: Familiar with Flame for creating game-like features in apps
+
 🔹 Recent Projects
 Turning Point Entertainment App 🎉
 Built for a closed community, this app offers users engaging features like Reels, Contests, and Mini Games. Users can earn coins through interactions and redeem them for rewards or contest entries.
@@ -21,9 +23,11 @@ Transportation Management System (TMS) 🛣️
 Developed a full-fledged TMS for my current company, designed to streamline transport operations and optimize logistics.
 Responsibilities: Sole developer, managed both frontend and backend
 Tech Stack: Flutter, Firebase, REST APIs
+
 🔹 Current Work
 Mobile App Project: Currently working on a file download feature, handling permissions, and ensuring seamless access to files.
 UI Design: Collaborating with a freelance designer, Hari Krishna, to improve UI/UX on one of my latest mobile app projects.
+
 🔹 Let's Connect!
 I'm always excited to connect with other developers, exchange ideas, and collaborate on new projects. Feel free to reach out!
 
