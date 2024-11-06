@@ -1,10 +1,15 @@
-##Hi there! I'm Zayn 👋
+Hi there! I'm Zayn 👋
+
 Welcome to my GitHub profile! I’m a passionate software developer with a strong focus on mobile development, particularly with Flutter. My experience spans across app development, UI/UX, and backend integration, and I love creating user-friendly, high-performance applications.
 
 🔹 About Me
-🏠 Location: Currently based in Dubai, UAE
+
+🏠 Location: Kerala, India
+
 🌱 Currently Learning: Cybersecurity and expanding my knowledge in mobile app security
+
 💼 Professional Experience: Over 10 years of programming experience and extensive work in Flutter
+
 🚀 Interests: Mobile development, game development, and emerging tech trends
 
 🔹 Key Skills
