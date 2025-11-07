@@ -30,4 +30,4 @@ I'm always excited to connect with other developers, exchange ideas, and collabo
 
 - [LinkedIn](https://www.linkedin.com/in/zayn-meledath-436967274/) 
 - [Email](mailto:zaynmeledath@gmail.com)
-- [Website](https://zaynmeledath.vercel.app)
+- [Website](https://zaynmeledath.com)
