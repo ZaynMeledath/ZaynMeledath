@@ -29,5 +29,5 @@ Developed a full-fledged TMS for my current company, designed to streamline tran
 I'm always excited to connect with other developers, exchange ideas, and collaborate on new projects. Feel free to reach out!
 
 - [LinkedIn](https://www.linkedin.com/in/zayn-meledath-436967274/) 
-- [Email](mailto:zaynmeledath@gmail.com)
+- [Email](mailto:hello@zaynmeledath.com)
 - [Website](https://zaynmeledath.com)
