@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a passionate software developer with a stron
 🔹 About Me
 - 🏠 Location: Kerala, India
 - 🌱 Currently Learning: Gen AI  
-- 💼 Professional Experience: Over 10 years of programming experience and extensive work in Flutter
+- 💼 Professional Experience: 2.5 years
 - 🚀 Interests: Mobile development, game development, and emerging tech trends
 
 🔹 Key Skills
